@@ -1,2 +1,4 @@
 dklasfldks
 jakas linia dodana w branch
+jakas linia druga dodana jako drugi commit
+
